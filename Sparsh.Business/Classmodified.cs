@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Sparsh.Business
 {
-    public class Class1
+    public class Classmodified
     {
     }
 }
